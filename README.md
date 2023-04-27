@@ -4,7 +4,7 @@ All the STL files are for one side, and just need to be mirrored for the other s
 | QTY  | Item |
 | ------------- | ------------- |
 | 6  | 25mm M3 head cap bolts  |
-| 18 | 7mm M3 flat head bolts  |
+| 18 | 8mm M3 flat head bolts  |
 | 12  | M3 heat press inserts (4.5 OD) |
 | 12  | M3 nuts  |
 | 50 | MX switches  |
