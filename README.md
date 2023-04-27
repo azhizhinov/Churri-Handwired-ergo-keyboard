@@ -15,7 +15,7 @@ All the STL files are for one side, and just need to be mirrored for the other s
 | 50 | MX switches  |
 | 50 | 1N4148 Diodes  |
 | 2 | Pro Micros  |
-| 4  | Female USB C breakout boards  |
+| 4  | Female USB C breakout boards (see picture below for which one to get specifically)  |
 | 2 | Male Micro USB ends  |
 | 2  | Tact switches  |
 
