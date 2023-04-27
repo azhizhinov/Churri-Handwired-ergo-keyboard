@@ -24,7 +24,6 @@ Heat press the 12 heat inserts into the body of the keyboard.
 
 Diagram for wiring:
 Diodes should be wired in COL2ROW.
-[[/IMGS/1.png]]
-[[/IMGS/2.png]]
+See images 1 and 2 in the IMGS folder.
 
 
