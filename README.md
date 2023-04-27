@@ -29,5 +29,6 @@ Heat press the 12 heat inserts into the body of the keyboard. The breackout boar
 <br>
 Diagram for wiring:<br>
 Diodes should be wired in COL2ROW.<br>
+<br>
 ![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.jpg)<br>
 ![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.jpg)<br>
