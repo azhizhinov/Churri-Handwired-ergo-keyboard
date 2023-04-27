@@ -1,6 +1,11 @@
-Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat. The keymap is very basic and is for sure missing some things as I intended from the start to use Vial which is the hex I would suggest using, but you can compile it yourself with the provided files.
-All the STL files are for one side, and just need to be mirrored for the other side. 
-
+Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.<br>
+<br>
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/keyboard/1b.jpg)<br>
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/keyboard/2b.jpg)<br>
+<br>
+The keymap is very basic and is for sure missing some things as I intended from the start to use Vial which is the hex I would suggest using, but you can compile it yourself with the provided files.<br>
+All the STL files are for one side, and just need to be mirrored for the other side.<br>
+<br>
 | QTY  | Item |
 | ------------- | ------------- |
 | 6  | 25mm M3 head cap bolts  |
@@ -13,16 +18,16 @@ All the STL files are for one side, and just need to be mirrored for the other s
 | 4  | Female USB C breakout boards  |
 | 2 | Male Micro USB ends  |
 | 2  | Tact switches  |
-
-Tenting legs:
-Heat press one nut on one side of all 6 through holes to catch the 25mm bolt.
-I dipped the tips in Plastidip to give them a better grip on my desk mat, about 12 coats.
-
-Keyboard:
-For the bottom, heat press the bots into the 6 large holes to catch the bolts to connect the tenting body to the keyboard.
-Heat press the 12 heat inserts into the body of the keyboard. The breackout boards and Pro Micro can be held down with either doublesided tape or a drop of super glue. You will need to file down 2 of the breakoput boards to fit into place. The tact switch is held in place by super glue. Test the button before glueing as you may need to stretch the hole a bit to make the button easy to press.
-
-Diagram for wiring:
-Diodes should be wired in COL2ROW.
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.png)
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.png)
+<br>
+Tenting legs:<br>
+Heat press one nut on one side of all 6 through holes to catch the 25mm bolt.<br>
+I dipped the tips in Plastidip to give them a better grip on my desk mat, about 12 coats.<br>
+<br>
+Keyboard:<br>
+For the bottom, heat press the bots into the 6 large holes to catch the bolts to connect the tenting body to the keyboard.<br>
+Heat press the 12 heat inserts into the body of the keyboard. The breackout boards and Pro Micro can be held down with either doublesided tape or a drop of super glue. You will need to file down 2 of the breakoput boards to fit into place. The tact switch is held in place by super glue. Test the button before glueing as you may need to stretch the hole a bit to make the button easy to press.<br>
+<br>
+Diagram for wiring:<br>
+Diodes should be wired in COL2ROW.<br>
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.png)<br>
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.png)<br>
