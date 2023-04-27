@@ -1,10 +1,10 @@
-Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.<br>
-<br>
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1b.jpg)<br>
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2b.jpg)<br>
-<br>
-The keymap is very basic and is for sure missing some things as I intended from the start to use Vial which is the hex I would suggest using, but you can compile it yourself with the provided files.<br>
-All the STL files are for one side, and just need to be mirrored for the other side.<br>
+Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.
+
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1b.jpg)
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2b.jpg)
+
+The keymap is very basic and is for sure missing some things as I intended from the start to use Vial which is the hex I would suggest using, but you can compile it yourself with the provided files.
+All the STL files are for one side, and just need to be mirrored for the other side.
 <br>
 | QTY  | Item |
 | ------------- | ------------- |
@@ -18,8 +18,8 @@ All the STL files are for one side, and just need to be mirrored for the other s
 | 4  | Female USB C breakout boards  |
 | 2 | Male Micro USB ends  |
 | 2  | Tact switches  |
-<br>
-Tenting legs:<br>
+
+Tenting legs:
 Heat press one nut on one side of all 6 through holes to catch the 25mm bolt.<br>
 I dipped the tips in Plastidip to give them a better grip on my desk mat, about 12 coats.<br>
 <br>
