@@ -25,4 +25,4 @@ Heat press the 12 heat inserts into the body of the keyboard.
 Diagram for wiring:
 Diodes should be wired in COL2ROW.
 ![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.png)
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2.png)
+![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.png)
