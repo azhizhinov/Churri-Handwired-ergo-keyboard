@@ -20,7 +20,7 @@ I dipped the tips in Plastidip to give them a better grip on my desk mat, about 
 
 Keyboard:
 For the bottom, heat press the bots into the 6 large holes to catch the bolts to connect the tenting body to the keyboard.
-Heat press the 12 heat inserts into the body of the keyboard. The breackout boards and Pro Micro can be held down with either doublesided tape or a drop of super glue. You will need to file down 2 of the breakoput boards to fit into place.
+Heat press the 12 heat inserts into the body of the keyboard. The breackout boards and Pro Micro can be held down with either doublesided tape or a drop of super glue. You will need to file down 2 of the breakoput boards to fit into place. The tact switch is held in place by super glue. Test the button before glueing as you may need to stretch the hole a bit to make the button easy to press.
 
 Diagram for wiring:
 Diodes should be wired in COL2ROW.
