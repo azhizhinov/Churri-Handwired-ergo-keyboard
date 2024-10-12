@@ -1,4 +1,4 @@
-This keyboard has been originaly designed by leifflat, this repo is just a fork of his beautiful creation. 
+This keyboard has been originaly designed by leafflat, this repo is just a fork of his beautiful creation. 
 
 Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.
 
