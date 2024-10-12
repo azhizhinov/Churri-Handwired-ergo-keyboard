@@ -1,3 +1,5 @@
+This keyboard has been originaly designed by leifflat, this repo is just a fork of his beautiful creation. 
+
 Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.
 
 ![alt text](https://github.com/azhizhinov/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1b.jpg)
