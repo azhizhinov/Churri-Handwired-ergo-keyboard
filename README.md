@@ -1,7 +1,7 @@
 Here is my first custom keyboard design.If you make one, please send me a picture or at me on reddit u/leifflat.
 
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1b.jpg)
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2b.jpg)
+![alt text](https://github.com/azhizhinov/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1b.jpg)
+![alt text](https://github.com/azhizhinov/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2b.jpg)
 
 The keymap is very basic and is for sure missing some things as I intended from the start to use Vial which is the hex I would suggest using, but you can compile it yourself with the provided files.
 All the STL files are for one side, and just need to be mirrored for the other side.
@@ -30,5 +30,5 @@ Heat press the 12 heat inserts into the body of the keyboard. The breackout boar
 Diagram for wiring:<br>
 Diodes should be wired in COL2ROW.<br>
 <br>
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.jpg)<br>
-![alt text](https://github.com/leafflat/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.jpg)<br>
+![alt text](https://github.com/azhizhinov/Churri-Handwired-ergo-keyboard/blob/main/IMGS/1a.jpg)<br>
+![alt text](https://github.com/azhizhinov/Churri-Handwired-ergo-keyboard/blob/main/IMGS/2a.jpg)<br>
